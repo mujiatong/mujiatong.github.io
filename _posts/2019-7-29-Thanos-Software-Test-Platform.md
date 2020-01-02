@@ -2,9 +2,9 @@
 layout: post
 title: The Thanos Software Test Platform
 ---
-Designed and implemented the **Thanos** Software Test Platform, which is not only for software team, also can be used for hardware and mechanical teams.
+Designed and implemented the **Thanos** software development management platform, which is not only for software team, also can be used for hardware and mechanical teams.
 
-**Thanos** software test platform which is consisted with **Jira**, **Confluence**, **Katalon**, **Jenkins**, **Albatros**, **IAR**, **Robot Framework**.
+**Thanos** software test platform is mainly consisted with **Jira**, **Confluence**, **Katalon**, **Jenkins**, **Albatros**, **IAR**, **Robot Framework**.
 
 **Thanos**:
 
@@ -24,11 +24,10 @@ Designed and implemented the **Thanos** Software Test Platform, which is not onl
 * Version 6 2019.11.28 Add Robot Framework in Thanos Software Test Platform
 * Version 5 2019.07.29 Initial
 
-![an image alt text]({{ site.baseurl }}/images/Posts/Thanos V6 20191128.svg "Thanos Software Test Platform")
+**Thanos Diagram**:
+
+![an image alt text]({{ site.baseurl }}/images/Posts/Thanos V6 20191128.jpg "Thanos Software Test Platform")
 
 **CI Diagram**:
 
-![an image alt text]({{ site.baseurl }}/images/Posts/Jenkins CI Diagram 20190505.svg "Thanos Software Test Platform")
-
-
-
+![an image alt text]({{ site.baseurl }}/images/Posts/Jenkins CI Diagram 20190505.jpg "CI Diagram")
