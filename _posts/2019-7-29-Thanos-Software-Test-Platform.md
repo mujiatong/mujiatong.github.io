@@ -21,8 +21,12 @@ Designed and implemented the **Thanos** software development management platform
 
 **Version Changes**:
 
-* Version 6 2019.11.28 Add Robot Framework in Thanos Software Test Platform
-* Version 5 2019.07.29 Initial
+* Version 6 2019.11.28 Add Robot Framework
+* Version 5 2019.07.29 Add Auto Test Tool
+* Version 4 2019.01.08 Add Albatros
+* Version 3 2018.12.08 Add Katalon
+* Version 2 2018.11.08 Add Jenkins
+* Version 1 2018.10.08 Initial, Add Jira and Confluence
 
 **Thanos Diagram**:
 
