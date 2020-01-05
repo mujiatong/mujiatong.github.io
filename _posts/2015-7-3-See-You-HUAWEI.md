@@ -43,11 +43,14 @@ if not me WHO? if not now WHEN?
 
 * Let’s be brave enough to say goodbye. And life will reward you a new HELLO…
 
-* 关于未来，下面的一份工作，外企。基本上不加班，这样可以比较好的平衡工作和生活。在确保工作质量和稳定的前提下，把自己之前挖的坑给填上：将之前买的没有时间读的书给读了；将之前一直断断续续学习的Swift和Python深入的学习，形成一个体系，可以利用这两种语言写出自己想要的东西来；将之前答应陪家人做的事情给做了。。。Family is always there to catch you when you fall。
+* 关于未来，下面的一份工作，外企。基本上不加班，这样可以比较好的平衡工作和生活。在确保工作质量和稳定的前提下，把自己之前挖的坑给填上：将之前买的没有时间读的书给读了；将之前一直断断续续学习的Swift和Python深入的学习，形成一个体系，可以利用这两种语言写出自己想要的东西来；将之前答应陪家人做的事情给做了。。。
+
+* Family is always there to catch you when you fall。
 
 * 时间回不到开始的地方，对于得到的，我心存感激；对于失去，谁又能保证那本该属于你。
 
 不后悔来过。
+
 不后悔离开。
 
 是以为记。
