@@ -68,6 +68,12 @@ title: See you, HUAWEI!
 
 是以为记。
 
+Several pictures of Huawei:
+
+![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/hw-000.jpg "000")
+
+![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/hw-001.jpg "001")
+
 Several pictures in Turkey: 
 
 ![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/tr-I-001.jpg "001")
@@ -92,3 +98,7 @@ Several pictures in Mexico:
 ![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/mx-I-004.jpg "004")
 
 ![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/mx-I-005.jpg "005")
+
+![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/mx-I-006.jpg "006")
+
+![an image alt text]({{ site.baseurl }}/images/Posts/See-you-HUAWEI/mx-I-007.jpg "007")
