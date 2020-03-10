@@ -1,10 +1,10 @@
 ---
 layout: post
-title: The Thanos Software Test Platform
+title: The Thanos Platform
 ---
-Designed and implemented the **Thanos** software development management platform, which is not only for software team, also can be used for hardware and mechanical teams.
+Designed and implemented the **Thanos** platform, which is not only for software team, also can be used for hardware and mechanical teams in POLC.
 
-**Thanos** software test platform is mainly consisted with **Jira**, **Confluence**, **Katalon**, **Jenkins**, **Albatros**, **IAR**, **Robot Framework**.
+**Thanos** platform is mainly consisted with **Jira**, **Confluence**, **Katalon**, **Jenkins**, **Albatros**, **IAR**, **Robot Framework**.
 
 **Thanos**:
 
