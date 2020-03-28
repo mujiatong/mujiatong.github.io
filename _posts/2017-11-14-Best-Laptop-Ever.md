@@ -1,7 +1,11 @@
 ---
 layout: post
-title: Best laptop ever
+title: Best laptop ever, MacBook Pro 15-inch 2014
 ---
+
+I read an article about best laptop ever. It mentioned the 15-inch Retina MacBook Pro (2012–2015) is the best laptop ever and listed several reasons. I totally agree with the author, because I am the 15-inch Retian MacBook Pro 2014 (MGXC2) user. I used the laptop from 2015, now I am still using it for my daily work and life. 
+
+The article orginal link [Best laptop ever](https://marco.org/2017/11/14/best-laptop-ever "Best laptop ever"). And thanks for the author: Marco Arment.
 
 Apple has made many great laptops, but the 15-inch Retina MacBook Pro (2012–2015) is the epitome of usefulness, elegance, practicality, and power for an overall package that still hasn’t been (and may never be) surpassed.
 
