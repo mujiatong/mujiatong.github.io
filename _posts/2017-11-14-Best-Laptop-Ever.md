@@ -1,15 +1,11 @@
 ---
 layout: post
-title: An amazing doodle founded on my business trip
+title: Best laptop ever
 ---
 
 Apple has made many great laptops, but the 15-inch Retina MacBook Pro (2012–2015) is the epitome of usefulness, elegance, practicality, and power for an overall package that still hasn’t been (and may never be) surpassed.
 
-![an image alt text]({{ site.baseurl }}/images/Posts/Best-Laptop-Ever/mbp2015-01.jpg "mbp2015 0001")
-
-![img](https://marco.org/media/2017/11/mbp2015.jpg)
-
-
+![an image alt text]({{ site.baseurl }}/images/Posts/Best-Laptop-Ever/mbp2015-01.jpg "mbp2015 01")
 
 Introduced in 2012, less than a year after Steve Jobs died, I see it as the peak of Jobs’ vision for the Mac.
 
@@ -19,7 +15,7 @@ At its introduction, it was criticized only for ditching the optical drive and E
 
 There were no other downsides. Everything else about this machine was an upgrade: thinner, lighter, faster, better battery life, quieter fans, better speakers, better microphones, a second Thunderbolt port, and a convenient new HDMI port.
 
-![img](https://marco.org/media/2017/11/mbp2015-left.jpg)
+![an image alt text]({{ site.baseurl }}/images/Posts/Best-Laptop-Ever/mbp2015-02.jpg "mbp2015 02")
 
 The MagSafe 2 power adapter breaks away safely if it’s tripped over, and the LED on the connector quickly, clearly, and silently indicates whether it’s charging and when the battery is fully charged.
 
@@ -27,7 +23,7 @@ The pair of Thunderbolt (later Thunderbolt 2) ports gave us high-end, high-speed
 
 The headphone jack was thoughtfully located on the left side, because nearly all headphones run their cables down from the left earcup. (External-mouse users also appreciate this frequently-used cable not intruding in their right-side mousing area.)
 
-![img](https://marco.org/media/2017/11/mbp2015-right.jpg)
+![an image alt text]({{ site.baseurl }}/images/Posts/Best-Laptop-Ever/mbp2015-03.jpg "mbp2015 03")
 
 The keyboard was completely unremarkable, in the best possible way. The crowd-pleasing design was neither fanatically loved nor widely despised. It quietly and reliably did its job, as all great tools should, and nobody ever really had to think about it.
 
@@ -35,7 +31,7 @@ The trackpad struck a great balance between size and usability. It provided ampl
 
 Not every owner needed the SD-card slot or HDMI port, but both were provided for times when we might. This greatly increased the versatility and convenience of this MacBook Pro, as many pro customers use A/V gear that records to SD cards or occasionally need to plug into a TV or projector. The SD-card slot could also serve as inexpensive storage expansion.
 
-![img](https://marco.org/media/2017/11/mbp2015-travel.jpg)
+![an image alt text]({{ site.baseurl }}/images/Posts/Best-Laptop-Ever/mbp2015-04.jpg "mbp2015 04")
 
 The power adapter’s built-in cable management keeps bags tidy. And if you need a longer cable, the extension comes in the box at no additional charge.
 
@@ -43,7 +39,7 @@ Versatile USB-A ports allow travelers to standardize on just *one* type of charg
 
 The 2015 revision brought the modern Force Touch trackpad and used the space savings to increase the battery to 99.5 Wh, *just* under the 100 Wh carry-on limit for most commercial airlines. When paired with the integrated-only GPU base configuration, this offered an unparalleled option for great battery life without giving up the large Retina screen.
 
-![img](https://marco.org/media/2017/11/mbp2015-back.jpg)
+![an image alt text]({{ site.baseurl }}/images/Posts/Best-Laptop-Ever/mbp2015-05.jpg "mbp2015 05")
 
 And I like the backlit Apple logo on the lid. Maybe I’m old-fashioned, or maybe I just miss Steve, but it — along with the MagSafe LED and the startup chime — reminds me of a time when Mac designs celebrated personality, humanity, and whimsy.
 
