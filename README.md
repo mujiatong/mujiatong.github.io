@@ -8,12 +8,6 @@ I am an active learner, love coding and photograph, taking open courses and read
 
 My favorite football club is **[Chelsea FC](https://www.chelseafc.com)**.  **Once Blue, Forever Blue!** :)
 
-### Chelsea FC
-
-#### Frank Lampard
-
-![an image alt text]({{ site.baseurl }}/images/Chelsea-FC/Framk-Lampard.jpg "Frank Lampard")
-
 ### Contact me
 
 [EmailToMe](mailto:alex.limingsheng@gmail.com)
